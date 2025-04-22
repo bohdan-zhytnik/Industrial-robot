@@ -1,4 +1,4 @@
-# Industrial-robot
+# Industrial-Robot
 
 ## Overview
 
@@ -10,7 +10,6 @@ This repository contains the semester project for the CTU FEE course **Robotics*
 - **Hardware:** Industrial robot unit and overhead camera.
 - **Software:** Image processing with OpenCV (`cv2`); robot control via the provided software interface.
 - **Documentation:** Detailed results and methodology are available in `[Industrialrobot_Technical_Report.pdf](Industrialrobot_Technical_Report.pdf)`.
-
 
 ## Install dependencies
 
