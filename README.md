@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # GigaRobot
 GigaRobot.
 
@@ -36,4 +37,6 @@ pypylon               4.1.0
 pyserial              3.5
 PyYAML                6.0.2
 *
+
+=======
 
