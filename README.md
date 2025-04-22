@@ -1,5 +1,17 @@
 # Industrial-robot
 
+## Overview
+
+This repository contains the semester project for the CTU FEE course **Robotics**. The project involves using an industrial robot and a camera rigidly mounted above it to detect and manipulate cubes in a workspace.
+
+## Project Description
+
+- **Objective:** Detect cubes in the robot's workspace using computer vision and move them precisely to designated positions with the industrial robot.
+- **Hardware:** Industrial robot unit and overhead camera.
+- **Software:** Image processing with OpenCV (`cv2`); robot control via the provided software interface.
+- **Documentation:** Detailed results and methodology are available in `Industrialrobot_Technical_Report.pdf`.
+
+
 ## Install dependencies
 
 install libs in requirements without installing ctu_crs
