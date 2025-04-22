@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# GigaRobot
+# Industrial-robot
 GigaRobot.
 
 
