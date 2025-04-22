@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-# GigaRobot
-GigaRobot.
-
+# Industrial-robot
 
 ## Install dependencies
 
