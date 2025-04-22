@@ -1,0 +1,6 @@
+numpy==1.26.4
+opencv-python==4.10.0.84
+nptyping==2.5.0
+pypylon==4.1.0
+opencv-contrib-python==4.10.0.84
+ctu_crs==1.0.2
