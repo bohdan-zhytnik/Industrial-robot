@@ -1,6 +1,4 @@
 # Industrial-robot
-GigaRobot.
-
 
 ## Install dependencies
 
