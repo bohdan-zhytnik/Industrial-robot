@@ -13,7 +13,7 @@ This repository contains the semester project for the CTU FEE course **Robotics*
 
 ## Install dependencies
 
-install libs in requirements without installing ctu_crs
+Install libs in requirements without installing ctu_crs
 ```bash
 pip install -r requirements.txt
 ```
